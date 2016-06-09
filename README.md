@@ -12,7 +12,13 @@ To open the call code window, from the tabs “Window” ( Window -> Live Execut
 
 Example using
 To access the target object you can take advantage of a static method "Find"  class "GameObject":
+
 GameObject camera = GameObject.Find(“Main Camera”);
+
 Afterwards you can use any data type
+
 GameObject camera = GameObject.Find(“Main Camera”); 
+
 camera.GetComponent().SomeMethod(10, “Hello”);
+
+![alt tag](http://cs631728.vk.me/v631728107/33354/BtJj4-z0sVo.jpg)
